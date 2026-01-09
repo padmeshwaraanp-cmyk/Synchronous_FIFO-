@@ -55,8 +55,8 @@ Waveform analysis used to validate timing and correctness
 
 🛠️ Tools Used
 
-HDL: Verilog / SystemVerilog
+HDL: Verilog 
 
-Simulation: Xilinx Vivado / Cadence Xcelium
+Simulation: Xilinx Vivado
 
 Synthesis: Xilinx Vivado
