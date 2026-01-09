@@ -1,6 +1,6 @@
 📖 Overview
 
-This repository contains the RTL design and verification of a fully synchronous FIFO (First-In First-Out) buffer implemented using Verilog/SystemVerilog. The FIFO is designed for reliable data transfer between modules operating on the same clock domain, commonly used in SoC and FPGA designs.
+This repository contains the RTL design and verification of a fully synchronous FIFO (First-In First-Out) buffer implemented using Verilog. The FIFO is designed for reliable data transfer between modules operating on the same clock domain, commonly used in SoC and FPGA designs.
 
 ⚙️ Features
 
