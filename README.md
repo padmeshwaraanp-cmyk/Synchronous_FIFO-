@@ -28,9 +28,11 @@ All operations synchronized to the rising edge of the clock
 
 Reset initializes pointers and status flags
 
-https://media.licdn.com/dms/image/v2/D5622AQHjlt4JjvZffw/feedshare-shrink_2048_1536/B56ZnxM4OQI0Aw-/0/1760688310400?e=1769644800&v=beta&t=autVldbjrhu1Qcc-9gAtC3dR7c9-Wnnb6TeYeD-CrMo
+<img width="388" height="584" alt="image" src="https://github.com/user-attachments/assets/b8dc124d-46af-4780-ba5f-d3329da2ecf8" />
 
-https://media.licdn.com/dms/image/v2/D5622AQF09NtAgouFeA/feedshare-shrink_1280/B56ZnxM4P1KIAs-/0/1760688310280?e=1769644800&v=beta&t=tibkMSQNLa-NYnIuQDSnbcgpN3HyLtHCC_3DW11-aKk
+<img width="468" height="523" alt="image" src="https://github.com/user-attachments/assets/1a204d7b-cd3e-4d48-8010-06763504bae8" />
+
+
 
 🧪 Verification
 
@@ -48,7 +50,8 @@ Full and empty boundary conditions
 
 Waveform analysis used to validate timing and correctness
 
-https://media.licdn.com/dms/image/v2/D5622AQHRZTau7jSLWA/feedshare-shrink_480/B56ZnxM4QDHQAY-/0/1760688310672?e=1769644800&v=beta&t=BszFlUy3MG7X0wxuw6nYGBR_iDGcEZ-hEFA5E-98voA
+<img width="374" height="551" alt="image" src="https://github.com/user-attachments/assets/2a22d906-ad3e-47ff-8ed3-2c35b5122593" />
+
 
 🛠️ Tools Used
 
